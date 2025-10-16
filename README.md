@@ -46,7 +46,7 @@ The team presented to multiple industry audiences:
 - **Pocket Worlds** and **Game Worlds** — received direct feedback from professional studios  
 - **Postmortem Presentation** — summarized challenges, metrics, and production insights  
 
-### Sample Presentation Slide
+### One Slide Presentation (Used for Texas Power Hour)
 <p align="center">
   <img src="Presentations/One Slide Presentation.png" alt="One Slide Game Pitch Presentation" width="1000">
 </p>
