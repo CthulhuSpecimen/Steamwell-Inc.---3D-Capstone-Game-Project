@@ -81,4 +81,4 @@ The team presented to multiple industry audiences:
 ---
 
 ## Tools & Technologies
-**Unreal Engine 5** | **Blueprint Visual Scripting** | **Canva (Presentations)** | **Trello** | **GitLab**  
+**Unreal Engine 5** | **Blueprint Visual Scripting** | **C++** | **Canva (Presentations)** | **Trello** | **GitLab**  
