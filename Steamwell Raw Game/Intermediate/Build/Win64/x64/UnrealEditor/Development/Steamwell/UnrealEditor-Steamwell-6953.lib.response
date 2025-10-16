@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Steamwell-6953.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\maxxm\Desktop\3d_capstone_steamwell\Intermediate\Build\Win64\x64\SteamwellEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\maxxm\Desktop\3d_capstone_steamwell\Intermediate\Build\Win64\x64\UnrealEditor\Development\Steamwell\Module.Steamwell.1_of_3.cpp.obj"
+"C:\Users\maxxm\Desktop\3d_capstone_steamwell\Intermediate\Build\Win64\x64\UnrealEditor\Development\Steamwell\Module.Steamwell.2_of_3.cpp.obj"
+"C:\Users\maxxm\Desktop\3d_capstone_steamwell\Intermediate\Build\Win64\x64\UnrealEditor\Development\Steamwell\Module.Steamwell.3_of_3.cpp.obj"
+"C:\Users\maxxm\Desktop\3d_capstone_steamwell\Intermediate\Build\Win64\x64\UnrealEditor\Development\Steamwell\Default.rc2.res"
+/OUT:"C:\Users\maxxm\Desktop\3d_capstone_steamwell\Intermediate\Build\Win64\x64\UnrealEditor\Development\Steamwell\UnrealEditor-Steamwell-6953.lib"

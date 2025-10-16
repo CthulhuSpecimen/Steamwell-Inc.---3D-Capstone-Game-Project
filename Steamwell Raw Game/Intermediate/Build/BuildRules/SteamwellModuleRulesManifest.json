@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\maxxm\\Desktop\\3d_capstone_steamwell\\Source\\SteamwellEditor\\SteamwellEditor.Build.cs",
+		"C:\\Users\\maxxm\\Desktop\\3d_capstone_steamwell\\Source\\Steamwell\\Steamwell.Build.cs",
+		"C:\\Users\\maxxm\\Desktop\\3d_capstone_steamwell\\Plugins\\UEGitPlugin-3.16\\Source\\GitSourceControl\\GitSourceControl.Build.cs",
+		"C:\\Users\\maxxm\\Desktop\\3d_capstone_steamwell\\Source\\Steamwell.Target.cs",
+		"C:\\Users\\maxxm\\Desktop\\3d_capstone_steamwell\\Source\\SteamwellEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
