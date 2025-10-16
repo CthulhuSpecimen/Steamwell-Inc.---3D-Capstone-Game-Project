@@ -1,0 +1,8 @@
+{
+	"BuildId": "25360045",
+	"Modules": 
+	{
+		"Steamwell": "UnrealEditor-Steamwell-6953.dll",
+		"SteamwellEditor": "UnrealEditor-SteamwellEditor.dll"
+	}
+}
