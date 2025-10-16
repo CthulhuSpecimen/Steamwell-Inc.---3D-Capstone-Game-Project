@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Steamwell",
+			"Path": "C:\\Users\\maxxm\\Desktop\\3d_capstone_steamwell\\Source\\Steamwell.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SteamwellEditor",
+			"Path": "C:\\Users\\maxxm\\Desktop\\3d_capstone_steamwell\\Source\\SteamwellEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

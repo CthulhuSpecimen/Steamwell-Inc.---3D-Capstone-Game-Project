@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\maxxm\\desktop\\3d_capstone_steamwell\\source\\steamwelleditor\\private\\config\\sv_unrealedengine.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\maxxm\\desktop\\3d_capstone_steamwell\\intermediate\\build\\win64\\x64\\steamwelleditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\maxxm\\desktop\\3d_capstone_steamwell\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\steamwelleditor\\definitions.steamwelleditor.h",
+            "c:\\users\\maxxm\\desktop\\3d_capstone_steamwell\\source\\steamwelleditor\\public\\config\\sv_unrealedengine.h",
+            "c:\\ue_5.2\\engine\\source\\editor\\unrealed\\classes\\editor\\unrealedengine.h",
+            "c:\\ue_5.2\\engine\\source\\editor\\unrealed\\public\\ipackageautosaver.h",
+            "c:\\ue_5.2\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolprovider.h",
+            "c:\\ue_5.2\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolchangelist.h",
+            "c:\\ue_5.2\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolchangeliststate.h",
+            "c:\\ue_5.2\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolstate.h",
+            "c:\\ue_5.2\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontroloperation.h",
+            "c:\\ue_5.2\\engine\\source\\editor\\unrealed\\public\\componentvisualizer.h",
+            "c:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\componentvisualizer.generated.h",
+            "c:\\ue_5.2\\engine\\source\\editor\\unrealed\\public\\componentvisualizermanager.h",
+            "c:\\ue_5.2\\engine\\source\\editor\\unrealed\\classes\\editor\\templatemapinfo.h",
+            "c:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\templatemapinfo.generated.h",
+            "c:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\unrealedengine.generated.h",
+            "c:\\users\\maxxm\\desktop\\3d_capstone_steamwell\\intermediate\\build\\win64\\unrealeditor\\inc\\steamwelleditor\\uht\\sv_unrealedengine.generated.h",
+            "c:\\ue_5.2\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolmodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
