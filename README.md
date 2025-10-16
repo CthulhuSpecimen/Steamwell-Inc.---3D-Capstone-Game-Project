@@ -16,7 +16,7 @@ My roles included:
 
 ### Early Concept Art
 <p align="center">
-  <img src="Miscellaneous Assets/Concept Art Mailroom.png" alt="Early Factory Mailroom Concept Art" width="1000">
+  <img src="Miscellaneous Assets/Concept Art Mailroom.PNG" alt="Early Factory Mailroom Concept Art" width="1000">
 </p>
 
 ---
