@@ -83,7 +83,7 @@ The team presented to multiple industry audiences:
 ### Play the Game on Itch.io
 <p align="center">
   <a href="https://st3phozan.itch.io/steamwell-inc">
-    <img src="Miscellaneous Assets/Itch Icon.png" alt="Play Steamwell on Itch.io" width="150" style="vertical-align:middle;">
+    <img src="Miscellaneous Assets/Itch Icon.png" alt="Play Steamwell on Itch.io" width="450" style="vertical-align:middle;">
   </a>
   <span style="font-size:16px; margin-left:10px; vertical-align:middle;">Click the icon to play!</span>
 </p>
