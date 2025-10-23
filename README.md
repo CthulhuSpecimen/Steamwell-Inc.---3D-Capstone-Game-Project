@@ -76,25 +76,25 @@ The team presented to multiple industry audiences:
 - Team leadership and communication with cross-disciplinary developers  
 - Unreal Engine 5 blueprint scripting and audio implementation  
 - Game design documentation and production pipeline creation  
-- Version control and IT support in collaborative environments  
+- Version control and IT support in collaborative environments
 
+---
 ## Play & Installation
 
 ### Play the Game on Itch.io
 <p align="center">
   <a href="https://st3phozan.itch.io/steamwell-inc">
-    <img src="Miscellaneous Assets/Itch Icon.png" alt="Play Steamwell on Itch.io" width="450" style="vertical-align:middle;">
+    <img src="Miscellaneous Assets/Itch Icon.png" alt="Play Steamwell on Itch.io" width="300">
   </a>
-  <span style="font-size:16px; margin-left:10px; vertical-align:middle;">Click the icon to play!</span>
-  Click the icon to play!
+  <br>
+  <span style="font-size:16px;">Click the icon to play!</span>
 </p>
 
 ### Installation Steps
-1. Click the **Itch.io link** above or the icon.  
+1. Click the **Itch.io icon** above.  
 2. Download the **ZIP file** of the game.  
 3. Unzip the file to a folder of your choice.  
 4. Open the folder and click the **Steamwell application** to play.
-
 ---
 
 ## Tools & Technologies
