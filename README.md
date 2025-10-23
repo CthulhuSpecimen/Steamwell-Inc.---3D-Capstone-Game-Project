@@ -86,6 +86,7 @@ The team presented to multiple industry audiences:
     <img src="Miscellaneous Assets/Itch Icon.png" alt="Play Steamwell on Itch.io" width="450" style="vertical-align:middle;">
   </a>
   <span style="font-size:16px; margin-left:10px; vertical-align:middle;">Click the icon to play!</span>
+  Click the icon to play!
 </p>
 
 ### Installation Steps
