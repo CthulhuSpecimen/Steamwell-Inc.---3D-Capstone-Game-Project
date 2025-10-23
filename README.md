@@ -12,7 +12,7 @@ My roles included:
 - **Scrum Master** — managed sprint planning, retrospectives, and daily standups  
 - **Audio/Level Designer** — designed environmental soundscapes and puzzle spaces  
 - **Audio Programmer** — implemented sound triggers and logic in Unreal  
-- **IT Support** — maintained build stability, version control, and engine troubleshooting  
+- **Technical Lead** — maintained build stability, version control, and engine troubleshooting  
 
 ### Early Concept Art
 <p align="center">
