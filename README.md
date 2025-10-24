@@ -43,7 +43,7 @@ The final deliverables included:
 ### Presentations
 The team presented to multiple industry audiences:
 - **Texas Power Hour** hosted by the **UT Game Development and Design Program** — showcased to Austin-based developers  
-- **Pocket Worlds** and **Game Worlds** — received direct feedback from professional studios  
+- **Pocket Worlds** and **Game Worlds** Studios — received direct feedback from professional studios  
 - **Postmortem Presentation** — summarized challenges, metrics, and production insights  
 
 ### One Slide Presentation (Used for Texas Power Hour)
