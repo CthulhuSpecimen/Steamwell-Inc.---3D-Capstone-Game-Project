@@ -6,7 +6,7 @@
 
 ## Objective
 Develop a fast-paced 3D puzzle game set in a chaotic factory environment through a semester long production cycle.  
-Over the semester, our team of 7 produced a full Game Design Document, multiple presentation decks, and a final pitch presentation delivered at **Texas Power Hour**, hosted by the **UT Game Development and Design Program**, where developers from various studios provided feedback. We also presented at **Game Worlds**, where industry professionals playtested our game and offered insights for improvement.
+Over the semester, our team of 7 produced a full Game Design Document, multiple presentation decks, and a final pitch presentation delivered at **Texas Power Hour**, hosted by the **UT Game Development and Design Program**, where developers from various studios provided feedback. We also presented at **Game Worlds** and Pocket Worlds Studios, where industry professionals playtested our game and offered insights for improvement.
 
 My roles included:
 - **Scrum Master** — managed sprint planning, retrospectives, and daily standups  
